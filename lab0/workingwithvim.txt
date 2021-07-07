@@ -1,3 +1,0 @@
-rm .me.txt //to remove the file
-vi me.txt
-press i to insert
